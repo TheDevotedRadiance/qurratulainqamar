@@ -4,8 +4,8 @@
 I'm Qurratulain Qamar,a software developer with over 6 months of experiance in web applications.I'm truly passionate about writing neat,efficient code that gives users a great experiance.I'm always in search of new challenges,challenges are my strength.
 
 ## Skills 🚀
--Languages: Python, JavaScript, 
--Front-end: HTML, CSS,javascript
+*Languages: Python, JavaScript, 
+*Front-end: HTML, CSS,javascript
 -Back-end: Python,Django
 -Frameworks: Django, Bootstrap, TailwindCSS
 -Databases: MySQL
