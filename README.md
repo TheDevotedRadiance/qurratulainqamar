@@ -11,11 +11,11 @@
 -Databases: MySQL
 -Tools: Git, VS Code 
 
-## Education 🎓
+# Education 🎓
 *Bachelor's of Medicine Bachelor's of surgery(MBBS)
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
-##Contact 📫
+# Contact 📫
 *Email: qurratulainqamar@gmail.com
 *Linkedin: [LinkedIn]
 *GitHub: [GitHub:]
